@@ -1,5 +1,5 @@
 # Vortext
-Vortext is a raymarched font written in Javascript and GLSL. It supports the full alphabet (lowercase and uppercase) and all digits. Support for the full printable ASCII set is planned but not yet supported.
+Vortext is a raymarched font written in JavaScript and GLSL. It supports the full alphabet (lowercase and uppercase) and all digits. Support for the full printable ASCII set is planned but not yet supported.
 
 ![Alt text](https://github.com/CobaltXII/vortext/blob/master/banner.png?raw=true)
 
