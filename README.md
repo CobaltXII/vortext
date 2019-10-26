@@ -9,7 +9,7 @@ All glyphs in the Vortext font are made from spheres, capsules and tori. The tor
 The cool 90's demoscene look is achieved using a form of [gradient noise](https://www.shadertoy.com/view/Xsl3Dl) (written by Inigo Quilez).
 
 # Try it out
-A live demo will be up soon.
+A live demo is available [here](https://cobaltxii.github.io/vortext/).
 
 # Inspiration
 Vortext was inspired by Mark Zucker's [miniray raymarcher](https://mzucker.github.io/2016/08/03/miniray.html).
